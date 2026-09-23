@@ -1,0 +1,1 @@
+create table employee (emp_name varchar2(2000), empid number);
